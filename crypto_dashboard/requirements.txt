@@ -1,0 +1,5 @@
+tkinter
+websocket-client
+requests
+numpy
+matplotlib
